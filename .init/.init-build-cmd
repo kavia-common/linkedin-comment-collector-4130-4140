@@ -1,0 +1,4 @@
+{
+    "command": "npm install && npx tsc --noEmit && npm test -- --ci",
+    "working_directory": "/home/kavia/workspace/code-generation/linkedin-comment-collector-4130-4140/linkedin_comments_frontend"
+}
